@@ -19,6 +19,7 @@ dependencies:
     \romanize-component : \0.1.x
     shelljs: \~0.1.2
     winston: \~0.7.1
+    LiveScript: \1.1.x
 engines:
     node: \0.10.x
 devDependencies:
